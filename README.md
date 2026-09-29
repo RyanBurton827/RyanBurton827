@@ -1,4 +1,4 @@
-# Ryan Burton
+# Ryan
 
 ### Websites, remote tech support & creative help
 
