@@ -1,10 +1,21 @@
 # Ryan Burton
 
-### Website fixes, tune-ups & business sites
+### Websites, remote tech support & creative help
 
-I help small businesses fix website issues, improve existing pages and build clear, responsive sites. I own First Conversation Co. LLC, based in Davenport, Florida, and work on remote projects.
+I help people and small businesses with websites, everyday tech problems and content projects. I own First Conversation Co. LLC, based in Davenport, Florida, and work remotely with customers nationwide.
 
 My front-end work uses HTML, CSS and JavaScript, with attention to layout, readable content, mobile navigation and useful handoffs.
+
+## What I can help with
+
+- **Websites:** focused fixes, existing-site tune-ups and simple one-page business sites.
+- **Software and devices:** setup, troubleshooting and step-by-step guidance for computers, phones and printers.
+- **PC cleanup:** storage, startup and unwanted-app cleanup, plus virus and malware removal where remote help is suitable.
+- **Email organization:** inbox cleanup, folders, labels, filters and marketing unsubscribe help.
+- **OBS Studio:** scenes, audio, recording and streaming setup.
+- **Video and social profiles:** video cuts, captions and shareable clips, plus YouTube and social-profile bios, links, titles and organization.
+
+All help is remote. We'll check whether the device, software and task are a good fit before agreeing on the work.
 
 ## Featured work
 
@@ -20,9 +31,9 @@ A self-directed, fictional home-services website with desktop and mobile layouts
 
 ## How I approach a project
 
-- Review the existing site and agree on the changes that matter most.
+- Talk through the problem and agree on the changes that matter most.
 - Define the deliverables, price and revision limit before starting.
-- Make the updates, then check relevant desktop, tablet and phone layouts, navigation and form behavior.
+- Make the agreed updates and check the result. For website work, that includes relevant screen sizes, navigation and form behavior.
 - Explain what changed and provide a usable handoff.
 
 The project repository explains the sample's testing scope and demonstration limits. No client source or private business records are included here.
