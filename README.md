@@ -15,7 +15,7 @@ My front-end work uses HTML, CSS and JavaScript, with attention to layout, reada
 - **OBS Studio:** scenes, audio, recording and streaming setup.
 - **Video and social profiles:** video cuts, captions and shareable clips, plus YouTube and social-profile bios, links, titles and organization.
 
-All help is remote. We'll check whether the device, software and task are a good fit before agreeing on the work.
+Remote-first nationwide, with local visits by appointment in Davenport, Lakeland and Poinciana. We'll confirm the fit, scope and total before booking.
 
 ## Featured work
 
